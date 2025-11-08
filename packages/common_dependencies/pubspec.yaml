@@ -1,0 +1,27 @@
+name: common_dependencies
+description: Common dependencies package for dependency injection
+version: 1.0.0+1
+publish_to: "none"
+
+environment:
+  sdk: ^3.9.0
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get_it: ^7.7.0
+  injectable: ^2.4.0
+  freezed_annotation: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.9
+  injectable_generator: ^2.6.0
+  freezed: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -6,7 +6,7 @@
 	<dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
-		tXJGkyMt5ppjYfAJGr3g0ccy+ls=
+		LRnJJvcMF4K0JnATPYVo7zi4q8c=
 		</data>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/GTMSessionFetcher.h</key>
 		<data>
-		eVssW3Olvpq8LcFRPO0WchB1l4I=
+		DlFrV8WcyN/iUPqazMWwajlBQMw=
 		</data>
 		<key>Headers/GTMSessionFetcherLogging.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eYkP1aD8XrnUicWJocxJCVkyNCM=
+		FsMcANxdCkbrggvEduzEUabYP4Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w0qENJOUouyPVp0SfP6ou934l/6O2gaj3qpfee7OGoQ=
+			cqLro2FngjJTQU5XnSFJJIQwx62t2ifKu5P176vVGws=
 			</data>
 		</dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X555XEjEWHwRPal4B44UnPz1SrZrYCu3HluGv0vlJmw=
+			SVauCWG1ZaZ54tYOtSOu0SxKpKbV5/nckbGhCe+IqRw=
 			</data>
 		</dict>
 		<key>Headers/GTMSessionFetcherLogging.h</key>

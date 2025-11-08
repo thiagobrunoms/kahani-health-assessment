@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      freezed:freezed:
+        enabled: true
+        generate_for:
+          - lib/**
+      injectable_generator:injectable_builder:
+        enabled: true
+        generate_for:
+          - lib/**
+      source_gen:combining_builder:
+        enabled: true
+
